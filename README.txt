@@ -1,4 +1,4 @@
-Common files:
+The follwoing files were provided by my professor so that our code would run properly:
 
 webgl-utils.js: standard utilities from google to set up a webgl context
 
